@@ -52,7 +52,6 @@ The project uses five main tables:
 
 ## Objectives
 
-The project is split into three tiers of questions to test SQL skills of increasing complexity:
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
