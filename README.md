@@ -1,5 +1,7 @@
 
-# https://www.google.com/url?sa=i&url=https%3A%2F%2Fslator.com%2Fapple-teams-up-with-italian-researchers-for-entity-aware-ai-translation%2F&psig=AOvVaw3eZqU-UDYNCK7VOZR-FfWE&ust=1751706801187000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjtrdruoo4DFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/7778cd72-54ff-490c-a9ec-849f780ffdc4)
+# ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) 
+
+
 
 Apple Retail Sales SQL Project 
 
